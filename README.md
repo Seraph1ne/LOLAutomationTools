@@ -27,7 +27,6 @@
 - 跳过称赞页面
 - 跳过解锁页面
 - 匹配超时检测
-- 掷空所有骰子
 - 聊天回复控制
   - 离开时回复好友消息
   - 离开时回复对局邀请
@@ -74,14 +73,8 @@
 # 功能详情
 在查看功能详情之前务必明晰各个页面的名称以及其中包含的功能，并留意每项功能标注的**注意项**，这会使你更容易了解每项功能在做什么或能做什么。
 
-![1](https://github.com/SnxiaLianXin/LOLAutomationTools/assets/36157488/ee34aaca-5178-4d0a-bfe8-8081b8c6ce4e)
-![2](https://github.com/SnxiaLianXin/LOLAutomationTools/assets/36157488/2d34690f-f3ee-4ce7-ac26-67844e9cd18d)
-![3](https://github.com/SnxiaLianXin/LOLAutomationTools/assets/36157488/15356b49-5014-43fa-8343-9b70dd5f336c)
-![4](https://github.com/SnxiaLianXin/LOLAutomationTools/assets/36157488/00a43086-853f-4d72-b3ef-fecb6f889f37)
-![5](https://github.com/SnxiaLianXin/LOLAutomationTools/assets/36157488/fd18ff3b-bb05-4e1f-86b7-9e7a8fd5699a)
-
 ## 选用英雄
-在使用**选用英雄**和**禁用英雄**前，都需要在配置页面进行编辑操作（开关项后面的齿轮按钮）。
+在使用**选用英雄**和**禁用英雄**前，都需要在配置页面进行编辑操作（开关项后面的按钮）。
 
 分路设置仅在部分有区分选位的对局模式中生效（如 *排位赛* 和 *极限闪击* ），随机仅在 *随机英雄* 模式中生效（如 *极地大乱斗*、*无限乱斗*，禁用英雄配置中不包含随机选项），通用则是其他所有模式中生效（不包含之前列举的模式，这是为了使用规范），在执行自动选用英雄时，将按照**选用英雄**的配置项来进行选用。
 
