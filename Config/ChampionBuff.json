@@ -1,0 +1,1940 @@
+{
+    "Aatrox": {
+        "aram": {
+            "dmg_dealt": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 1.15,
+            "dmg_taken": 0.7
+        }
+    },
+    "Ahri": {
+        "aram":{
+            "dmg_dealt":0.97,
+            "healing":0.9
+        },
+        "urf": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05
+        },
+        "usb": {
+            "dmg_taken": 0.95
+        }
+    },
+    "Akali": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.90,
+            "energy_regen": 1.2,
+            "tenacity": 1.2
+        },
+        "ofa": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.97
+        },
+        "urf": {
+            "dmg_taken": 0.9
+        },
+        "nb": {
+            "dmg_dealt":1.1,
+            "dmg_taken": 0.95,
+            "ability_haste": 20
+        }
+    },
+    "Akshan": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95,
+            "description":[
+                "{W恶人标记时长：25秒 → 10秒}{0}"
+            ]
+        },
+        "urf": {
+            "dmg_dealt": 1.05
+        }
+    },
+    "Alistar": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05,
+            "healing": 0.8
+        },
+        "ofa": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.97
+        },
+        "usb": {
+            "dmg_dealt": 0.95
+        },
+        "urf": {
+            "dmg_taken": 0.95
+        }
+    },
+    "Ambessa":{
+        "aram":{
+            "dmg_taken":1.05
+        }
+    },
+    "Amumu": {
+        "ofa": {
+            "dmg_taken": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9
+        }
+    },
+    "Anivia": {
+        "aram": {
+            "dmg_dealt": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 1.15,
+            "dmg_taken": 0.9
+        },
+        "usb": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9
+        }
+    },
+    "Annie": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05,
+            "shielding": 0.9
+        },
+        "urf": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05
+        }
+    },
+    "Aphelios": {
+        "urf": {
+            "dmg_dealt": 1.05
+        },
+        "ofa": {
+            "dmg_dealt": 1.08
+        },
+        "usb": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Ashe": {
+        "aram": {
+            "dmg_dealt":1.05,
+            "attack_speed": 1.03,
+            "description": [
+                "{W冷却时间：18/17.5/17/16.5/16秒}{0}"
+            ],
+            "spell_cooldown": [
+                "{R}{110 to 100}"
+            ]
+        },
+        "usb": {
+            "dmg_taken": 0.95
+        }
+    },
+    "Aurora":{
+    },
+    "AurelionSol": {
+        "aram": {
+            "spell_cooldown": [
+                "{E}{12 to 14}"
+            ]
+        },
+        "urf": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9
+        },
+        "ofa": {
+            "ability_haste": -20,
+            "dmg_dealt": 1.02,
+            "dmg_taken": 0.92
+        },
+        "usb": {
+            "dmg_dealt": 1.05,
+            "movement_speed": 1.2
+        }
+    },
+    "Azir": {
+        "aram": {
+            "attack_speed": 1.025,
+            "ability_haste": 20,
+            "dmg_taken": 0.95
+        },
+        "ofa": {
+            "dmg_dealt": 1.08,
+            "dmg_taken": 0.9,
+            "movement_speed": 1.05
+        }
+    },
+    "Briar": {
+        "aram": {
+            "dmg_dealt":1.05,
+            "healing": 1.2
+        },
+        "nb":{
+            "dmg_dealt":0.9,
+            "dmg_taken":1.05,
+            "healing":0.95
+        }
+    },
+    "Bard": {
+        "aram": {
+            "dmg_dealt": 1.15,
+            "dmg_taken": 0.85,
+            "healing": 1.2
+        },
+        "ofa": {
+            "dmg_dealt": 1.15,
+            "dmg_taken": 0.85,
+            "healing": 1.2
+        },
+        "urf": {
+            "dmg_dealt": 1.15,
+            "dmg_taken": 0.85,
+            "healing": 1.2
+        },
+        "usb": {
+            "dmg_dealt": 1.08,
+            "dmg_taken": 0.92,
+            "movement_speed": 1.2
+        },
+        "nb": {
+            "dmg_taken": 0.9,
+            "ability_haste": 20,
+            "healing": 1.2,
+            "shielding": 1.2,
+            "description": [
+                "{提升了调和之音生成频率；第一次生成在30秒，之后每20秒生成2个新的}{1}"
+            ]
+        }
+    },
+    "Belveth": {
+        "aram": {
+            "dmg_dealt": 1.05
+        },
+        "usb": {
+            "dmg_dealt": 0.9
+        }
+    },
+    "Blitzcrank": {
+        "ofa": {
+            "dmg_dealt": 1.06,
+            "dmg_taken": 0.97
+        },
+        "usb": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95
+        },
+        "nb": {
+            "dmg_dealt": 1.05
+        }
+    },
+    "Brand": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05,
+            "ability_haste": -10
+        },
+        "ofa": {
+            "dmg_taken": 1.03
+        },
+        "usb": {
+            "dmg_dealt": 0.95
+        },
+        "nb": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.08
+        }
+    },
+    "Braum": {
+        "ofa": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9
+        },
+        "urf": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.82
+        }
+    },
+    "Caitlyn": {
+        "aram": {
+            "dmg_taken": 1.05
+        }
+    },
+    "Camille": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95,
+            "shielding": 1.1,
+            "ability_haste":10
+        },
+        "nb": {
+            "dmg_taken": 0.95
+        }
+    },
+    "Cassiopeia": {
+        "urf": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        }
+    },
+    "Chogath": {
+        "aram": {
+            "dmg_taken": 1.1
+        },
+        "ofa": {
+            "dmg_dealt": 0.98,
+            "dmg_taken": 1.05
+        }
+    },
+    "Corki": {
+        "aram": {
+            "dmg_taken": 0.9,
+            "ability_haste": -20
+        },
+        "nb": {
+            "dmg_dealt": 1.05
+        }
+    },
+    "Darius": {
+        "aram": {
+            "dmg_dealt": 1.05
+        },
+        "ofa": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.85
+        }
+    },
+    "Diana": {
+        "aram":{
+            "dmg_dealt":1.02,
+            "dmg_taken":0.98
+        },
+        "ofa": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "DrMundo": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05,
+            "healing": 0.9
+        },
+        "ofa": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05,
+            "healing": 0.9
+        }
+    },
+    "Draven": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95
+        },
+        "ofa": {
+            "dmg_taken": 0.95
+        },
+        "urf": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        }
+    },
+    "Ekko": {
+        "aram": {
+            "dmg_dealt": 1.1,
+            "tenacity": 1.2
+        },
+        "ofa": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Elise": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.9,
+            "tenacity": 1.2
+        },
+        "ofa": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.92
+        },
+        "urf": {
+            "dmg_taken": 0.95
+        },
+        "usb": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95
+        }
+    },
+    "Evelynn": {
+        "aram": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9,
+            "tenacity": 1.2
+        },
+        "ofa": {
+            "dmg_dealt": 1.07,
+            "dmg_taken": 0.93
+        },
+        "urf": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95
+        },
+        "usb": {
+            "dmg_dealt": 1.1
+        },
+        "nb": {
+            "dmg_taken": 0.9,
+            "ability_haste": 20
+        }
+    },
+    "Ezreal": {
+        "urf": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "FiddleSticks": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        },
+        "ofa": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.93,
+            "healing": 1.2
+        },
+        "urf": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.85
+        },
+        "usb": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95
+        }
+    },
+    "Fiora": {
+        "aram": {
+            "dmg_taken": 0.95
+        },
+        "urf": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.1,
+            "healing": 0.65
+        },
+        "usb": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        }
+    },
+    "Fizz": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95,
+            "tenacity": 1.1
+        },
+        "urf": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.1
+        }
+    },
+    "Galio": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05
+        }
+    },
+    "Gangplank": {
+        "aram":{
+            "dmg_dealt":1.05
+        },
+        "ofa": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.9
+        }
+    },
+    "Garen": {
+        "aram": {
+            "dmg_taken": 0.95
+        },
+        "ofa": {
+            "dmg_dealt": 0.95
+        },
+        "urf": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9
+        }
+    },
+    "Gnar": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95,
+            "attack_speed": 1.025
+        },
+        "urf": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9
+        }
+    },
+    "Gragas": {
+        "aram": {
+            "dmg_taken": 0.95
+        }
+    },
+    "Graves": {
+        "ofa": {
+            "dmg_dealt": 0.98,
+            "dmg_taken": 1.05
+        },
+        "usb": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Gwen": {
+        "aram":{
+            "dmg_dealt":1.05
+        },
+        "usb": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        }
+    },
+    "Hwei": {
+        "aram":{
+            "dmg_dealt":0.95,
+            "description":[
+                "{对小兵伤害：100% → 80%}{0}"
+            ]
+        }
+    },
+    "Hecarim": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.90,
+            "healing": 1.2,
+            "ability_haste": 10
+        },
+        "nb": {
+            "dmg_taken": 0.95
+        }
+    },
+    "Heimerdinger": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.1
+        },
+        "ofa": {
+            "dmg_dealt": 0.97
+        }
+    },
+    "Illaoi": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05,
+            "healing": 0.8
+        },
+        "ofa": {
+            "dmg_dealt": 0.92,
+            "dmg_taken": 1.05
+        },
+        "urf": {
+            "dmg_taken": 0.9
+        }
+    },
+    "Irelia": {
+        "aram": {
+            "ability_haste": 20
+        },
+        "ofa": {
+            "dmg_dealt": 0.97
+        }
+    },
+    "Ivern": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "shielding": 0.8
+        },
+        "ofa": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.93,
+            "shielding": 1.2
+        },
+        "usb": {
+            "dmg_taken": 0.95
+        }
+    },
+    "Janna": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05,
+            "healing": 0.9,
+            "shielding": 0.95,
+            "description":[
+                "{Q冷却时间：14秒 → 16秒}{0}"
+            ]
+        },
+        "ofa": {
+            "dmg_dealt": 1.03
+        }
+    },
+    "JarvanIV": {
+        "ofa": {
+            "dmg_dealt": 0.95
+        },
+        "usb": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Jax": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.97
+        },
+        "ofa": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.15
+        }
+    },
+    "Jayce": {
+        "aram":{
+            "dmg_dealt":1.05
+        },
+        "urf": {
+            "dmg_dealt": 0.92,
+            "dmg_taken": 1.05
+        }
+    },
+    "Jhin": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 1.05
+        }
+    },
+    "Jinx": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05
+        },
+        "nb": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        }
+    },
+    "Kaisa": {
+        "aram": {
+            "attack_speed": 1.025,
+            "dmg_taken": 0.9
+        },
+        "ofa": {
+            "dmg_dealt": 1.03
+        },
+        "urf": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.1
+        }
+    },
+    "Kalista": {
+        "aram": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9
+        },
+        "urf": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9
+        }
+    },
+    "Karma": {
+        "aram":{
+            "dmg_dealt":0.97
+        }
+    },
+    "Karthus": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 0.9
+        }
+    },
+    "Kassadin": {
+        "aram": {
+            "dmg_taken": 0.95
+        }
+    },
+    "Katarina": {
+        "aram": {
+            "ability_haste": 10,
+            "tenacity": 1.2
+        },
+        "ofa": {
+            "dmg_taken": 0.95
+        },
+        "urf": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95
+        }
+    },
+    "Kayle": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.10
+        },
+        "ofa": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.1
+        },
+        "nb": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05
+        }
+    },
+    "Kayn": {
+        "aram": {
+            "tenacity": 1.2,
+            "healing": 0.8
+        }
+    },
+    "Kennen": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "energy_regen": 1.2
+        },
+        "ofa": {
+            "dmg_dealt": 0.98,
+            "dmg_taken": 1.2
+        }
+    },
+    "Khazix": {
+        "aram": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9,
+            "healing": 1.2,
+            "tenacity": 1.2
+        }
+    },
+    "Kindred": {
+        "aram": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9,
+            "attack_speed": 1.025
+        },
+        "ofa": {
+            "dmg_taken": 0.95
+        },
+        "usb": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        }
+    },
+    "Kled": {
+        "aram": {
+            "dmg_dealt": 1.05
+        },
+        "urf": {
+            "dmg_taken": 0.9
+        }
+    },
+    "KogMaw": {
+        "aram": {
+            "dmg_dealt": 0.88,
+            "dmg_taken": 1.1
+        },
+        "urf": {
+            "dmg_dealt": 0.95
+        },
+        "nb": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05
+        }
+    },
+    "KSante": {
+        "aram":{
+            "dmg_dealt":1.05
+        },
+        "urf": {
+            "dmg_dealt": 1.05
+        }
+    },
+    "Leblanc": {
+        "aram": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9,
+            "ability_haste": 20
+        },
+        "ofa": {
+            "dmg_taken": 0.95
+        },
+        "nb": {
+            "dmg_taken": 0.9,
+            "ability_haste": 20
+        }
+    },
+    "LeeSin": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95,
+            "healing": 1.1,
+            "shielding": 1.2,
+            "energy_regen": 1.2
+        },
+        "ofa": {
+            "dmg_taken": 0.95
+        }
+    },
+    "Leona": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "dmg_taken":1.05
+        }
+    },
+    "Lillia": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05,
+            "spell_cooldown": [
+                "{E}{14 to 18}"
+            ]
+        },
+        "ofa": {
+            "dmg_dealt": 0.98
+        },
+        "usb": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Lissandra": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        }
+    },
+    "Lucian": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95,
+            "tenacity": 1.2,
+            "ability_haste": 10
+        },
+        "urf": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        }
+    },
+    "Lulu": {},
+    "Lux": {
+        "aram": {
+            "dmg_dealt": 0.85,
+            "dmg_taken": 1.1,
+            "shielding": 0.8
+        },
+        "urf": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Malphite": {
+        "ofa": {
+            "dmg_dealt": 0.95
+        },
+        "urf": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        }
+    },
+    "Malzahar": {
+        "aram": {
+            "dmg_dealt": 0.90,
+            "dmg_taken": 1.1,
+            "dmg_minions_group_dealt": 0.75
+        },
+        "urf": {
+            "dmg_dealt": 0.92,
+            "dmg_taken": 1.08
+        }
+    },
+    "Maokai": {
+        "aram": {
+            "dmg_dealt": 0.8,
+            "dmg_taken": 1.10,
+            "healing": 0.9
+        },
+        "ofa": {
+            "dmg_taken": 1.05
+        },
+        "urf": {
+            "dmg_taken": 1.05,
+            "healing": 0.7
+        },
+        "nb": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05,
+            "healing": 0.95,
+            "shielding": 0.95
+        }
+    },
+    "MasterYi": {
+        "aram": {
+            "dmg_taken": 0.97
+        },
+        "urf": {
+            "dmg_dealt": 0.9,
+            "healing": 0.8
+        },
+        "usb": {
+            "dmg_taken": 1.05
+        },
+        "nb":{
+            "dmg_dealt":0.9,
+            "dmg_taken":1.05
+        }
+    },
+    "Milio": {
+        "aram": {
+            "healing": 0.9,
+            "shielding": 0.95,
+            "ability_haste":-10
+        }
+    },
+    "MissFortune": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05
+        },
+        "usb": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95
+        }
+    },
+    "Mordekaiser": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        },
+        "ofa": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        },
+        "urf": {
+            "dmg_taken": 0.85
+        },
+        "usb": {
+            "dmg_taken": 1.05
+        }
+    },
+    "Morgana": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.1
+        },
+        "urf": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05
+        },
+        "nb": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Nami": {
+        "aram": {
+            "dmg_dealt":0.95
+        },
+        "ofa": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.93,
+            "healing": 1.2
+        }
+    },
+    "Nasus": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05
+        },
+        "usb": {
+            "dmg_taken": 0.95
+        },
+        "nb": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Nautilus": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.1
+        }
+    },
+    "Neeko": {
+        "ofa": {
+            "dmg_dealt": 0.98
+        },
+        "usb": {
+            "dmg_taken": 0.95
+        }
+    },
+    "Nidalee": {
+        "aram": {
+            "dmg_dealt": 1.1
+        },
+        "urf": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95
+        },
+        "ofa": {
+            "dmg_dealt": 1.07,
+            "dmg_taken": 0.95
+        },
+        "usb": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95,
+            "healing": 1.2
+        },
+        "nb": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.9,
+            "shielding": 1.1,
+            "healing": 1.1
+        }
+    },
+    "Nilah": {
+        "aram": {
+            "dmg_dealt": 0.97
+        }
+    },
+    "Nocturne": {
+        "aram": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9,
+            "healing": 1.2
+        },
+        "ofa": {
+            "dmg_dealt": 0.95
+        },
+        "urf": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Nunu": {
+        "aram": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9,
+            "healing": 1.1,
+            "shielding": 1.2,
+            "tenacity": 1.2
+        },
+        "ofa": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.92,
+            "healing": 1.05,
+            "shielding": 1.2
+        },
+        "urf": {
+            "dmg_dealt": 1.08,
+            "dmg_taken": 0.95
+        },
+        "usb": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95,
+            "healing": 1.2
+        },
+        "nb": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.9,
+            "ability_haste": 20
+        }
+    },
+    "Naafiri": {
+        "aram": {
+            "dmg_dealt": 1.1,
+            "ability_haste":10
+        }
+    },
+    "Olaf": {
+        "aram":{
+            "dmg_dealt":1.05
+        }
+    },
+    "Orianna": {
+        "urf": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.1,
+            "shielding": 0.8
+        }
+    },
+    "Ornn": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95
+        }
+    },
+    "Pantheon": {
+        "ofa": {
+            "dmg_dealt": 0.98,
+            "dmg_taken": 1.02
+        }
+    },
+    "Poppy": {
+    },
+    "Pyke": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95,
+            "tenacity": 1.2
+        },
+        "ofa": {
+            "dmg_taken": 0.95
+        },
+        "urf": {
+            "dmg_taken": 0.95
+        },
+        "nb": {
+            "dmg_dealt": 1.05
+        }
+    },
+    "Qiyana": {
+        "aram": {
+            "dmg_dealt": 1.15,
+            "dmg_taken": 0.9,
+            "tenacity": 1.2
+        },
+        "ofa": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.92
+        },
+        "urf": {
+            "dmg_taken": 0.9
+        }
+    },
+    "Quinn": {
+        "aram": {
+            "dmg_dealt": 1.1,
+            "attack_speed": 1.025,
+            "dmg_taken": 0.9,
+            "tenacity": 1.2
+        },
+        "urf": {
+            "dmg_taken": 0.95
+        }
+    },
+    "Rakan":{
+"aram":{
+    "dmg_taken":0.95
+}
+    },
+    "Rammus": {
+        "ofa": {
+            "dmg_dealt": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.85
+        },
+        "usb": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95
+        }
+    },
+    "RekSai": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.9
+        },
+        "ofa": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.93,
+            "healing": 1.2
+        },
+        "urf": {
+            "dmg_dealt": 1.07,
+            "dmg_taken": 0.93,
+            "healing": 1.2
+        },
+        "nb": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.9
+        }
+    },
+    "Rell": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "healing": 0.9,
+            "shielding": 0.9
+        },
+        "ofa": {
+            "dmg_dealt": 1.05
+        },
+        "usb": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05
+        }
+    },
+    "Renata": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05,
+            "shielding": 0.8
+        },
+        "ofa": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.95,
+            "shielding": 1.2
+        }
+    },
+    "Renekton": {
+        "aram": {
+            "healing": 1.05
+        }
+    },
+    "Rengar": {
+        "aram": {
+            "dmg_dealt":1.05,
+            "dmg_taken": 0.92,
+            "tenacity": 1.2
+        },
+        "ofa": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95
+        }
+    },
+    "Riven": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.92
+        },
+        "urf": {
+            "dmg_taken": 0.95
+        },
+        "nb": {
+            "dmg_dealt": 1.05
+        }
+    },
+    "Rumble": {
+        "urf": {
+            "shielding": 0.8
+        }
+    },
+    "Ryze": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95
+        },
+        "ofa": {
+            "dmg_dealt": 1.03
+        }
+    },
+    "Samira": {
+        "aram": {
+            "dmg_taken": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 0.95
+        },
+        "usb": {
+            "dmg_dealt": 0.9,
+            "shielding": 0.99
+        }
+    },
+    "Sejuani": {
+    },
+    "Senna": {
+        "aram": {
+            "dmg_dealt": 0.97
+        },
+        "ofa": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.9
+        },
+        "usb": {
+            "dmg_dealt": 1.1,
+            "healing": 1.2
+        }
+    },
+    "Seraphine": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.2,
+            "ability_haste": -20,
+            "healing": 0.8,
+            "shielding": 0.8
+        },
+        "urf": {
+            "dmg_dealt": 0.92,
+            "healing": 0.8
+        },
+        "nb": {
+            "dmg_dealt": 0.95,
+            "healing": 0.9,
+            "shielding": 0.9
+        }
+    },
+    "Sett": {
+        "ofa": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.92
+        },
+        "usb": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        },
+        "nb": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Shaco": {
+        "aram": {
+            "dmg_dealt": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 0.85,
+            "dmg_taken": 1.1
+        }
+    },
+    "Shen": {
+        "aram": {
+            "dmg_dealt":0.95,
+            "dmg_taken": 1.05
+        },
+        "urf": {
+            "dmg_taken": 1.05
+        },
+        "ofa": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Shyvana": {
+        "aram": {
+            "dmg_taken": 0.95
+        },
+        "urf": {
+            "dmg_dealt": 0.85
+        },
+        "ofa": {
+            "dmg_taken": 1.02
+        }
+    },
+    "Singed": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.08,
+            "description":[
+                "{被动额外移动速度：25% → 20%}{0}",
+                "{被动每个单位的冷却时间：8 → 10秒}{0}"
+            ]
+        },
+        "urf": {
+            "dmg_dealt": 0.9
+        },
+        "usb": {
+            "dmg_taken": 1.05
+        },
+        "nb": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Sion": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.1,
+            "ability_haste": -10,
+            "description":[
+                "{W通过击杀单位获得的最大生命值：4 → 2}{0}",
+                "{W通过击杀大型单位或英雄获得的最大生命值：15 → 8}{0}",
+                "{W护盾强度：8/10/12/14/16% → 6/8/10/12/14%最大生命值}{0}"
+            ]
+        },
+        "urf": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9,
+            "shielding": 1.2
+        },
+        "nb": {
+            "dmg_taken": 1.05
+        }
+    },
+    "Sivir": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05,
+            "description": [
+                "{Q冷却时间：14/13/12/11/10秒}{0}"
+            ]
+        },
+        "urf": {
+            "dmg_dealt": 0.9
+        },
+        "nb": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        }
+    },
+    "Skarner": {
+        "aram":{
+            "dmg_taken":1.05
+        },
+        "ofa": {
+            "dmg_taken": 0.97
+        }
+    },
+    "Sona": {
+        "urf": {
+            "dmg_dealt": 0.9,
+            "healing": 0.7,
+            "shielding":0.8
+        },
+        "nb": {
+            "dmg_dealt": 0.95,
+            "healing": 0.95,
+            "shielding": 0.95
+        }
+    },
+    "Soraka": {
+        "aram":{
+            "dmg_taken":0.97,
+            "ability_haste":10
+        },
+        "ofa": {
+            "dmg_dealt": 1.03,
+            "dmg_taken": 0.97,
+            "healing": 1.1
+        },
+        "urf": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.92
+        }
+    },
+    "Swain": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.15,
+            "healing": 0.8
+        },
+        "nb": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        }
+    },
+    "Sylas": {
+        "aram": {
+            "dmg_dealt": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Syndra": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "ability_haste": 5
+        },
+        "urf": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.1
+        }
+    },
+    "Smolder":{
+        "aram":{
+            "dmg_taken":1.02,
+            "ability_haste":-10
+        },
+        "nb":{
+            "dmg_dealt":1.05,
+            "dmg_taken":0.95
+        }
+    },
+    "TahmKench": {
+        "aram":{
+            "dmg_taken":1.05
+        },
+        "urf": {
+            "dmg_dealt": 1.15,
+            "dmg_taken": 0.85,
+            "shielding": 1.2
+        }
+    },
+    "Taliyah": {
+        "ofa": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.9
+        },
+        "nb": {
+            "dmg_dealt": 0.95,
+            "ability_haste": -10
+        }
+    },
+    "Talon": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95,
+            "tenacity": 1.2
+        }
+    },
+    "Taric": {
+        "aram": {
+            "dmg_taken": 1.1
+        },
+        "urf": {
+            "healing": 0.85
+        },
+        "ofa": {
+            "dmg_taken": 0.92
+        }
+    },
+    "Teemo": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.1,
+            "dmg_minions_group_dealt": 0.5,
+            "ability_haste": -20,
+            "description": [
+                "{R最大充能数：3/4/5 → 2/3/4 (每级减少一个)}{0}"
+            ]
+        },
+        "urf": {
+            "dmg_dealt": 0.95
+        },
+        "nb": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05
+        }
+    },
+    "Thresh": {
+        "aram":{
+            "dmg_taken":1.05
+        },
+        "ofa": {
+            "movement_speed": 1.05
+        },
+        "urf": {
+            "dmg_taken": 0.87,
+            "shielding": 1.2
+        },
+        "usb": {
+            "movement_speed": 1.2
+        },
+        "nb": {
+            "ability_haste": 20,
+            "description": [
+                "{被动技能的灵魂获取数量翻倍}{1}"
+            ]
+        }
+    },
+    "Tristana": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95
+        }
+    },
+    "Trundle": {
+        "aram": {
+            "dmg_taken": 1.05
+        },
+        "ofa": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.07
+        },
+        "urf": {
+            "dmg_dealt": 0.95,
+            "healing": 0.8
+        },
+        "usb": {
+            "dmg_taken": 1.05
+        }
+    },
+    "Tryndamere": {
+        "aram": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9,
+            "healing": 1.2
+        }
+    },
+    "TwistedFate": {
+        "urf": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Twitch": {
+        "aram": {
+            "dmg_taken": 0.95
+        },
+        "ofa": {
+            "dmg_dealt": 0.98
+        },
+        "urf": {
+            "dmg_dealt": 0.92,
+            "dmg_taken": 1.05
+        }
+    },
+    "Udyr": {
+        "aram":{
+            "healing":0.9,
+            "shielding":0.9
+        },
+        "urf": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.92
+        }
+    },
+    "Urgot": {
+        "aram": {
+            "dmg_taken": 1.05
+        },
+        "ofa": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.02
+        },
+        "urf": {
+            "dmg_dealt": 1.15,
+            "dmg_taken": 0.85
+        }
+    },
+    "Varus": {
+        "aram": {
+            "dmg_dealt": 0.98,
+            "dmg_taken": 1.05
+        }
+    },
+    "Vayne": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95
+        },
+        "urf": {
+            "dmg_taken": 1.05
+        },
+        "ofa": {
+            "dmg_dealt": 0.97
+        }
+    },
+    "Veigar": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.1,
+            "spell_cooldown":[
+                "{E}{20 to 23}"
+            ],
+            "description":[
+                "{被动每次参与击杀英雄增加的层数：5 → 3}{0}"
+            ]
+        }
+    },
+    "Velkoz": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Vex": {
+        "aram": {
+            "dmg_dealt": 0.95
+        },
+        "urf": {
+            "dmg_dealt": 0.9
+        }
+    },
+    "Vi": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95,
+            "ability_haste": 10
+        },
+        "ofa": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        },
+        "usb": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        }
+    },
+    "Viego": {
+        "aram": {
+            "dmg_dealt": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.9
+        },
+        "usb": {
+            "dmg_dealt": 0.95,
+            "healing": 0.8
+        }
+    },
+    "Viktor": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Vladimir": {
+        "aram": {
+            "dmg_dealt": 0.95,
+            "dmg_taken":1.05,
+            "healing": 0.90
+        },
+        "urf": {
+            "dmg_dealt": 0.92,
+            "dmg_taken": 1.05,
+            "healing": 1.2
+        }
+    },
+    "Volibear": {
+        "aram":{
+            "description":[
+                "{W治疗量(+8/11/14/17/20%已损失生命值)→(+8/10/12/14/16已损失生命值)}{0}",
+                "{E护盾：14%最大生命值 → 11%最大生命值}{0}"
+            ]
+        },
+        "ofa": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.1,
+            "shielding": 0.8
+        },
+        "urf": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.1,
+            "healing": 0.8
+        },
+        "nb":{
+            "dmg_dealt":0.95,
+            "dmg_taken":1.05,
+            "healing":0.95
+        }
+    },
+    "Warwick": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95,
+            "healing": 1.2
+        },
+        "usb": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Wukong": {
+        "aram":{
+            "spell_cooldown":[
+                "{W}{18 to 20}",
+                "{R}{130 to 140}"
+            ]
+        },
+        "ofa": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        },
+        "urf": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.1
+        },
+        "usb": {
+            "dmg_dealt": 0.95
+        }
+    },
+    "Xayah": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "attack_speed":1.03
+        },
+        "urf": {
+            "dmg_dealt": 0.85,
+            "dmg_taken": 1.1
+        },
+        "usb": {
+            "dmg_taken": 0.95
+        }
+    },
+    "Xerath": {
+        "aram": {
+            "dmg_dealt": 0.93,
+            "dmg_taken":1.05
+        },
+        "ofa": {
+            "dmg_dealt": 1.03
+        }
+    },
+    "XinZhao": {
+        "aram": {
+            "dmg_dealt": 0.95
+        },
+        "ofa": {
+            "dmg_dealt": 0.97,
+            "dmg_taken": 1.02,
+            "healing": 1.2
+        },
+        "urf": {
+            "dmg_taken": 1.1
+        },
+        "usb": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.05
+        }
+    },
+    "Yasuo": {
+        "aram":{
+            "attack_speed":1.025
+        },
+        "urf": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.9,
+            "attack_speed":1.025
+        }
+    },
+    "Yone": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.97,
+            "attack_speed":1.025
+        },
+        "ofa": {
+            "dmg_dealt": 0.98
+        },
+        "urf": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9,
+            "shielding": 1.2
+        }
+    },
+    "Yorick": {
+        "aram":{
+            "description":[
+                "{Q伤害加成：40%攻击力 → 30%攻击力}{0}",
+                "{Q基于已损失生命值的治疗量：4/5/6/7/8 → 3/3.5/4/4.5/5}{0}"
+            ]
+        },
+        "ofa": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05
+        }
+    },
+    "Yuumi": {
+        "aram": {
+            "dmg_dealt": 1.05
+        },
+        "ofa": {
+            "dmg_dealt": 1.15,
+            "dmg_taken": 0.8,
+            "healing": 1.2,
+            "shielding": 1.2
+        },
+        "urf": {
+            "dmg_dealt": 0.65,
+            "dmg_taken": 1.2,
+            "healing": 0.7
+        },
+        "usb": {
+            "dmg_dealt": 0.95,
+            "healing": 0.75,
+            "shielding": 0.75
+        }
+    },
+    "Zac": {
+        "aram": {
+            "dmg_taken": 0.96,
+            "healing": 1.1
+        }
+    },
+    "Zed": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.9,
+            "energy_regen": 1.2,
+            "tenacity": 1.2
+        },
+        "urf": {
+            "dmg_dealt": 0.85,
+            "dmg_taken": 1.15
+        }
+    },
+    "Zeri": {
+        "aram": {
+            "dmg_dealt": 1.1,
+            "dmg_taken":0.95
+        }
+    },
+    "Ziggs": {
+        "aram": {
+            "dmg_dealt": 0.87,
+            "dmg_taken": 1.2,
+            "ability_haste": -20,
+            "description":[
+                "{W防御塔处决阈值：25/27.5/30/32.5/35% → 12.5/15/17.5/20/22.5%防御塔最大生命值}{0}",
+                "{被动对建筑物的伤害：250% → 150%}{0}",
+                "{被动造成伤害：80% → 85%}{1}"
+            ]
+        },
+        "ofa": {
+            "dmg_taken": 0.95
+        },
+        "nb": {
+            "dmg_dealt": 0.95,
+            "ability_haste": -10
+        }
+    },
+    "Zilean": {
+        "aram": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95,
+            "ability_haste": 10
+        },
+        "ofa": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.95
+        },
+        "urf": {
+            "dmg_dealt": 1.05,
+            "dmg_taken": 0.9
+        }
+    },
+    "Zoe": {
+        "aram": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.95
+        },
+        "ofa": {
+            "dmg_dealt": 1.1,
+            "dmg_taken": 0.9
+        }
+    },
+    "Zyra": {
+        "aram": {
+            "dmg_dealt": 0.9,
+            "dmg_taken": 1.05,
+            "ability_haste":-10
+        },
+        "nb": {
+            "dmg_dealt": 0.95,
+            "dmg_taken": 1.08
+        }
+    }
+}
