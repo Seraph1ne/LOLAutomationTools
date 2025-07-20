@@ -1,23 +1,2 @@
 [
-  {
-    "Main": {
-      "Path": "https://gitee.com/seraph1ne/lolautomation-tools/raw/master/Assets/main.jpg",
-      "Mode": 0
-    },
-    "MatchHistory": {
-      "Path": "",
-      "Mode": 0
-    },
-    "GameDetail": {
-      "Path": "",
-      "Mode": 0
-    },
-    "ChampConfig": {
-      "Path": "",
-      "Mode": 0
-    },
-    "BackdropId": "{1ebb0069-16bf-4092-953b-f143ce878c85}",
-    "Opacity": 82.6056338028169,
-    "Blur": 0.0
-  }
 ]
