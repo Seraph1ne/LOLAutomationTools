@@ -1,22 +1,17 @@
 {
-    "Version": "2.8.6.48476",
-    "DownloadUrl": "https://github.com/SnxiaLianXin/LOLAutomationTools/releases/tag/v2.8.6.48476",
+    "Version": "2.8.7.3589",
+    "DownloadUrl": "https://github.com/SnxiaLianXin/LOLAutomationTools/releases/tag/v2.8.7.3589",
     "UpdateMessage": 
     [
         "更新版本：{0}",
         "更新内容：",
         "",
-        "- 修复了当游戏处在对局中时运行软件不会获取对局战绩的问题",
-        "- 修复了交换功能的交换选位在斗魂竞技场模式中不能正常交换的问题",
-        "- 修复了英雄独立配置在斗魂竞技场中不会正确生效的问题",
-        "- 修复了软件不会正确应用系统代理的问题",
-        "- 优化了选用英雄在选用“随机”英雄时的策略，现在在斗魂竞技场中会选择“勇敢举动”而非随机英雄",
-        "- 优化了自动选牌的检测算法",
-        "- 优化了其它功能代码以提升整体性能",
+        "- 修复了在斗魂竞技场中如果预选的英雄已被选用时不会正常选用下一个的问题",
+        "- 新增了选位交换，启用后在征召模式中会尝试交换主选位置",
         "",
         "",
         "即将打开更新地址"
     ],
     "ShouldCheckUpdate": true,
-    "ForceUpdate": false
+    "ForceUpdate": true
 }
