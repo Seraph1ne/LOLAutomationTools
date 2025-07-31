@@ -1,17 +1,17 @@
 {
-    "Version": "2.8.7.3589",
-    "DownloadUrl": "https://github.com/SnxiaLianXin/LOLAutomationTools/releases/tag/v2.8.7.3589",
+    "Version": "2.8.8.7589",
+    "DownloadUrl": "https://gitee.com/seraph1ne/lolautomation-tools/releases/tag/v2.8.8.7589",
     "UpdateMessage": 
     [
         "更新版本：{0}",
         "更新内容：",
         "",
-        "- 修复了在斗魂竞技场中如果预选的英雄已被选用时不会正常选用下一个的问题",
-        "- 新增了选位交换，启用后在征召模式中会尝试交换主选位置",
+        "- 修复了在启用了选用英雄的同时启用了预选英雄会导致选用第二个英雄的问题",
+        "- 优化了部分UI和功能代码",
         "",
         "",
         "即将打开更新地址"
     ],
     "ShouldCheckUpdate": true,
-    "ForceUpdate": true
+    "ForceUpdate": false
 }
