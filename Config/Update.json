@@ -1,13 +1,15 @@
 {
-    "Version": "2.8.8.7589",
-    "DownloadUrl": "https://gitee.com/seraph1ne/lolautomation-tools/releases/tag/v2.8.8.7589",
+    "Version": "2.8.9.1295",
+    "DownloadUrl": "https://gitee.com/seraph1ne/lolautomation-tools/releases/tag/v2.8.9.1295",
     "UpdateMessage": 
     [
         "更新版本：{0}",
         "更新内容：",
         "",
-        "- 修复了在启用了选用英雄的同时启用了预选英雄会导致选用第二个英雄的问题",
-        "- 优化了部分UI和功能代码",
+        "- 修复了[英雄独立化配置]不会正确生效的问题",
+        "- 修复了在用户交换选位后某些功能不会正确刷新的问题",
+        "- 修复了个性化页面的背景项在重新初始化后会缺失的问题",
+        "- 新增了局内喊话的游戏内输入覆盖功能，以支持快捷的文本喊话（实验性）",
         "",
         "",
         "即将打开更新地址"
@@ -15,3 +17,4 @@
     "ShouldCheckUpdate": true,
     "ForceUpdate": false
 }
+
