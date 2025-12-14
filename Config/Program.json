@@ -1,6 +1,5 @@
 {
-    "LeagueClientVersion":"15.21.1",
-    "DefaultBackdrop":"",
+    "LeagueClientVersion":"15.24.1",
+    "DefaultBackdrop":"{5A9C1F22-8E4B-4C9F-9A33-7C1D8F0B4E21}",
     "AllowOtherPlatform": true
 }
-
