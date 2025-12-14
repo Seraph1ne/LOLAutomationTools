@@ -1,7 +1,9 @@
 {
     "LeagueClientVersion":"15.24.1",
     "DefaultScheme":"{5A9C1F22-8E4B-4C9F-9A33-7C1D8F0B4E21}",
+    "DefaultSchemeVersion":1,
     "DefaultBackdrop":null,
     "AllowOtherPlatform": true
 }
+
 
