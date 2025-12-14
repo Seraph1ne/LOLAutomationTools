@@ -88,5 +88,35 @@
         "BuffAdjustForeground": "DarkOrange",
         "MainTitleBrush": "MediumOrchid",
         "MainTitleFontFamily": "Script MT"
+    },
+    "{5A9C1F22-8E4B-4C9F-9A33-7C1D8F0B4E21}":
+    {
+        "Backdrop": null,
+        "Name": "冰雪主题",
+        "SchemeId": "{5A9C1F22-8E4B-4C9F-9A33-7C1D8F0B4E21}",
+        "ForegroundColor": "#F5F9FF",
+        "BackgroundColor": "#0D1A2A",
+        "FocusgroundColor": "#6EC8FF",
+        "HoverBackgroundColor": "#1A2C40",
+        "LinearBackgroundColor": "#132235",
+        "MainTitleGlowColor": "#A8D8FF",
+        "WinShadowColor": "#0A0F18",
+        "ToggleButtonUncheckedBackColor": "#2A3C52",
+        "ToggleButtonCheckedBackColor": "#6EC8FF",
+        "Foreground": "#F5F9FF",
+        "Background": "#0D1A2A",
+        "Focusground": "#6EC8FF",
+        "BorderBrush": "#2E4157",
+        "LinearBackground": "#132235",
+        "SecondaryBrush": "#C9D6E8",
+        "HoverBackground": "#1A2C40",
+        "ScrollBarBackground": "#3A4E66",
+        "ScrollBarHoverBackground": "#2F435A",
+        "ToggleButtonForeground": "#FFFFFF",
+        "BuffPositiveForeground": "#9FFFCB",
+        "BuffUnPositiveForeground": "#FF6B6B",
+        "BuffAdjustForeground": "#6EC8FF",
+        "MainTitleBrush": "#D0E8FF",
+        "MainTitleFontFamily": "Script MT"
     }
 }
