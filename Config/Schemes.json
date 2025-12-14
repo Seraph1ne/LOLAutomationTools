@@ -92,7 +92,7 @@
     "{5A9C1F22-8E4B-4C9F-9A33-7C1D8F0B4E21}":
     {
         "Backdrop": null,
-        "Name": "冰雪主题",
+        "Name": "冰雪圣诞主题",
         "SchemeId": "{5A9C1F22-8E4B-4C9F-9A33-7C1D8F0B4E21}",
         "ForegroundColor": "#F5F9FF",
         "BackgroundColor": "#0D1A2A",
@@ -120,3 +120,4 @@
         "MainTitleFontFamily": "Script MT"
     }
 }
+
