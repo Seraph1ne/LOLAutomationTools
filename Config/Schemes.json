@@ -23,9 +23,9 @@
         "ScrollBarBackground": "#979797",
         "ScrollBarHoverBackground": "#737373",
         "ToggleButtonForeground": "#F0F0F0",
-        "BuffPositiveForeground": "Green",
-        "BuffUnPositiveForeground": "Red",
-        "BuffAdjustForeground": "DarkOrange",
+        "BalancePositiveForeground": "Green",
+        "BalanceUnPositiveForeground": "Red",
+        "BalanceAdjustForeground": "DarkOrange",
         "MainTitleBrush": "White",
         "MainTitleFontFamily": "Script MT"
     },
@@ -53,9 +53,9 @@
         "ScrollBarBackground": "#666666",
         "ScrollBarHoverBackground": "#565656",
         "ToggleButtonForeground": "#F0F0F0",
-        "BuffPositiveForeground": "LightGreen",
-        "BuffUnPositiveForeground": "Red",
-        "BuffAdjustForeground": "DarkOrange",
+        "BalancePositiveForeground": "LightGreen",
+        "BalanceUnPositiveForeground": "Red",
+        "BalanceAdjustForeground": "DarkOrange",
         "MainTitleBrush": "DarkGray",
         "MainTitleFontFamily": "Script MT"
     },
@@ -83,9 +83,9 @@
         "ScrollBarBackground": "#506C6C",
         "ScrollBarHoverBackground": "#326C6C",
         "ToggleButtonForeground": "#F0F0F0",
-        "BuffPositiveForeground": "LightGreen",
-        "BuffUnPositiveForeground": "Red",
-        "BuffAdjustForeground": "DarkOrange",
+        "BalancePositiveForeground": "LightGreen",
+        "BalanceUnPositiveForeground": "Red",
+        "BalanceAdjustForeground": "DarkOrange",
         "MainTitleBrush": "MediumOrchid",
         "MainTitleFontFamily": "Script MT"
     },
@@ -113,9 +113,9 @@
         "ScrollBarBackground": "#3A4E66",
         "ScrollBarHoverBackground": "#2F435A",
         "ToggleButtonForeground": "#FFFFFF",
-        "BuffPositiveForeground": "#9FFFCB",
-        "BuffUnPositiveForeground": "#FF6B6B",
-        "BuffAdjustForeground": "#6EC8FF",
+        "BalancePositiveForeground": "#9FFFCB",
+        "BalanceUnPositiveForeground": "#FF6B6B",
+        "BalanceAdjustForeground": "#6EC8FF",
         "MainTitleBrush": "#D0E8FF",
         "MainTitleFontFamily": "Script MT"
     },
@@ -138,9 +138,9 @@
         "ScrollBarBackground": "#3A4E66",
         "ScrollBarHoverBackground": "#2F435A",
         "ToggleButtonForeground": "#FFFFFF",
-        "BuffPositiveForeground": "#9FFFCB",
-        "BuffUnPositiveForeground": "#FF6B6B",
-        "BuffAdjustForeground": "#6EC8FF",
+        "BalancePositiveForeground": "#9FFFCB",
+        "BalanceUnPositiveForeground": "#FF6B6B",
+        "BalanceAdjustForeground": "#6EC8FF",
         "MainTitleFontFamily": "Script MT",
         "Foreground": "#F5F9FF",
         "Background": "Linear([#07111F,#0D1C30],[0,1],[0,0,0,1])",
@@ -149,4 +149,5 @@
         "Focusground": "Linear([#FFE9B8,#8FE8FF],[0,1],[0,0,1,1])",
         "MainTitleBrush": "Radial([#FF4D4D,#FFD36B,#6BFF6B,#6EC8FF,#C28BFF],[0,0.22,0.45,0.72,1],[0.5,0.5,0.7,0.7])"
     }
+
 }
