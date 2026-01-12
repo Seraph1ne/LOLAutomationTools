@@ -43,7 +43,7 @@
     },
     "kiwi": {
       "tenacity": 1.2,
-      "energy_regen": 0.2,
+      "energy_regen": 1.2,
       "dmg_taken": 0.9
     }
   },
@@ -889,7 +889,7 @@
       "dmg_taken": 1.02
     },
     "kiwi": {
-      "energy_regen": 0.2
+      "energy_regen": 1.2
     }
   },
   "121": {
@@ -987,7 +987,7 @@
     },
     "kiwi": {
       "dmg_dealt": 1.05,
-      "energy_regen": 0.2,
+      "energy_regen": 1.2,
       "dmg_taken": 0.95,
       "healing": 1.1,
       "shielding": 1.2
@@ -2316,7 +2316,7 @@
     "kiwi": {
       "dmg_dealt": 1.05,
       "tenacity": 1.2,
-      "energy_regen": 0.2,
+      "energy_regen": 1.2,
       "dmg_taken": 0.95
     }
   },
