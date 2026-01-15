@@ -1,13 +1,12 @@
 {
-    "Version": "2.9.737.1049",
-    "DownloadUrl": "https://gitee.com/seraph1ne/lolautomation-tools/releases/tag/v2.9.737.1049",
+    "Version": "2.9.738.2516",
+    "DownloadUrl": "https://gitee.com/seraph1ne/lolautomation-tools/releases/tag/v2.9.738.2516",
     "UpdateMessage": 
     [
         "更新版本：{0}",
         "更新内容：",
         "",
         "- 修复了一些已知的问题",
-        "- 启用了部分窗口的缩放功能，以适配低分辨率设备",
         "",
         "",
         "即将打开更新地址"
@@ -15,6 +14,7 @@
     "ShouldCheckUpdate": true,
     "ForceUpdate": false
 }
+
 
 
 
