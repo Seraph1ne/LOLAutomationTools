@@ -148,6 +148,35 @@
         "HoverBackground": "Linear([#1A2C40,#23374D],[0,1],[0,0,0,1])",
         "Focusground": "Linear([#FFE9B8,#8FE8FF],[0,1],[0,0,1,1])",
         "MainTitleBrush": "Radial([#FF4D4D,#FFD36B,#6BFF6B,#6EC8FF,#C28BFF],[0,0.22,0.45,0.72,1],[0.5,0.5,0.7,0.7])"
+    },
+    "{F19A3C22-7D4B-4C8F-9E11-8A3F5D9B11C8}": 
+    {
+        "Backdrop": null,
+        "Name": "春节·新春瑞狮",
+        "SchemeId": "{F19A3C22-7D4B-4C8F-9E11-8A3F5D9B11C8}",
+        "ForegroundColor": "#FFF8E6",
+        "BackgroundColor": "#B00000",
+        "LinearBackgroundColor": "#4A0000",
+        "FocusgroundColor": "#FFAA33",
+        "HoverBackgroundColor": "#C83210",
+        "MainTitleGlowColor": "#FFD86B",
+        "WinShadowColor": "#1A0000",
+        "ToggleButtonUncheckedBackColor": "#D62828",
+        "ToggleButtonCheckedBackColor": "Linear([#FF8F00,#FFD54F],[0,1],[0,0,0,1])",
+        "Foreground": "#FFF8E6",
+        "Background": "Linear([#4A0000,#B00000,#FF3B30],[0,0.5,1],[0,0,0,1])",
+        "Focusground": "#FFAA33",
+        "BorderBrush": "#FFB300",
+        "LinearBackground": "#4A0000",
+        "SecondaryBrush": "#E8D8B0",
+        "HoverBackground": "#C83210",
+        "ScrollBarBackground": "#00606C",
+        "ScrollBarHoverBackground": "#007380",
+        "ToggleButtonForeground": "#FFF3E0",
+        "BuffPositiveForeground": "#FFD54F",
+        "BuffUnPositiveForeground": "#FF5252",
+        "BuffAdjustForeground": "#FF8F00",
+        "MainTitleBrush": "Linear([#FFE08A,#FFB300,#FF8F00],[0,0.5,1],[0,0,0,1])",
+        "MainTitleFontFamily": "Script MT"
     }
-
 }
