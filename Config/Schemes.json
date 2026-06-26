@@ -26,7 +26,7 @@
         "BalancePositiveForeground": "Green",
         "BalanceUnPositiveForeground": "Red",
         "BalanceAdjustForeground": "DarkOrange",
-        "MainTitleBrush": "White",
+        "MainTitleBrush": "#1F1F1F",
         "MainTitleFontFamily": "Script MT"
     },
     "{7DD32346-74AE-4F60-AEE4-DA5F8FFB88EF}":
